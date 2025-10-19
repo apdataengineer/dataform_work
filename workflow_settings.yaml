@@ -1,0 +1,4 @@
+defaultProject: ap-data-engineer-dev
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.26

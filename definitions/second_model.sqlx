@@ -1,0 +1,7 @@
+
+config {
+        type: "view",
+        schema: "new_prep"
+       }
+
+SELECT * FROM ${ref("first_model")} 
