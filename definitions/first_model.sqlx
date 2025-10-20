@@ -4,4 +4,4 @@ config {
         schema: "new_prep"
        }
 
-SELECT "test" as name, "test2" as name2
+SELECT "test" as name, "test3" as name2
